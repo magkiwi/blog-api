@@ -1,0 +1,11 @@
+.idea
+static
+data
+bk
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

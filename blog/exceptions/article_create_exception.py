@@ -1,0 +1,2 @@
+class ArticleCreationException(Exception):
+    pass
